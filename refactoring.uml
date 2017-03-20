@@ -391,7 +391,7 @@
 <XPD:REF name="Views[1]">1F1dSdteSk6e7eN5OhEJdgAA</XPD:REF>
 <XPD:REF name="Views[2]">YlZl/f574Ee5+qg/FPpWsQAA</XPD:REF>
 <XPD:REF name="Views[3]">5MAFXSSNOEuvT2nCTO5S4wAA</XPD:REF>
-<XPD:ATTR name="#Operations" type="integer">2</XPD:ATTR>
+<XPD:ATTR name="#Operations" type="integer">3</XPD:ATTR>
 <XPD:OBJ name="Operations[0]" type="UMLOperation" guid="885juIvEQU6u5qiD/ee2cQAA">
 <XPD:ATTR name="Name" type="string">getMovie</XPD:ATTR>
 <XPD:REF name="Owner">pzZc5oh/mEK6cXnTD0SqWQAA</XPD:REF>
@@ -410,6 +410,16 @@
 <XPD:ATTR name="DirectionKind" type="UMLParameterDirectionKind">pdkReturn</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">int</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">2BzhG5+gXEe8QQQiw/ApQgAA</XPD:REF>
+</XPD:OBJ>
+</XPD:OBJ>
+<XPD:OBJ name="Operations[2]" type="UMLOperation" guid="CVwSYMeFhUar+7CtTOC3igAA">
+<XPD:ATTR name="Name" type="string">getCharge</XPD:ATTR>
+<XPD:REF name="Owner">pzZc5oh/mEK6cXnTD0SqWQAA</XPD:REF>
+<XPD:ATTR name="#Parameters" type="integer">1</XPD:ATTR>
+<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="jP4g2APPokOjaxMDoPTOZwAA">
+<XPD:ATTR name="DirectionKind" type="UMLParameterDirectionKind">pdkReturn</XPD:ATTR>
+<XPD:ATTR name="TypeExpression" type="string">double</XPD:ATTR>
+<XPD:REF name="BehavioralFeature">CVwSYMeFhUar+7CtTOC3igAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:ATTR name="#Associations" type="integer">2</XPD:ATTR>
